@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Apr  3 01:29:37 2021
+# Process ID: 17740
+# Current directory: C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.sim/sim_1/impl/func/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.sim/sim_1/impl/func/xsim/xsim.dir/tb_design_1_wrapper_func_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.sim/sim_1/impl/func/xsim/webtalk.log
+# Journal file: C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.sim/sim_1/impl/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.sim/sim_1/impl/func/xsim/xsim.dir/tb_design_1_wrapper_func_impl/webtalk/xsim_webtalk.tcl -notrace

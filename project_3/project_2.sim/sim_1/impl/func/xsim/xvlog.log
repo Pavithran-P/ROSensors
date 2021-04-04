@@ -1,0 +1,161 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.sim/sim_1/impl/func/xsim/tb_design_1_wrapper_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_x_pntrs
+INFO: [VRFC 10-311] analyzing module clk_x_pntrs_7
+INFO: [VRFC 10-311] analyzing module dbg_hub
+INFO: [VRFC 10-311] analyzing module dmem
+INFO: [VRFC 10-311] analyzing module dmem_13
+INFO: [VRFC 10-311] analyzing module fifo_generator_ramfifo
+INFO: [VRFC 10-311] analyzing module fifo_generator_ramfifo__parameterized0
+INFO: [VRFC 10-311] analyzing module fifo_generator_top
+INFO: [VRFC 10-311] analyzing module fifo_generator_top__parameterized0
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_1_4
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_1_4__parameterized0
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_1_4_synth
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_1_4_synth__parameterized0
+INFO: [VRFC 10-311] analyzing module ltlib_v1_0_0_bscan
+INFO: [VRFC 10-311] analyzing module memory
+INFO: [VRFC 10-311] analyzing module memory__parameterized0
+INFO: [VRFC 10-311] analyzing module rd_bin_cntr
+INFO: [VRFC 10-311] analyzing module rd_bin_cntr_18
+INFO: [VRFC 10-311] analyzing module rd_fwft
+INFO: [VRFC 10-311] analyzing module rd_handshaking_flags
+INFO: [VRFC 10-311] analyzing module rd_handshaking_flags__parameterized0
+INFO: [VRFC 10-311] analyzing module rd_logic
+INFO: [VRFC 10-311] analyzing module rd_logic__parameterized0
+INFO: [VRFC 10-311] analyzing module rd_status_flags_as
+INFO: [VRFC 10-311] analyzing module rd_status_flags_as_17
+INFO: [VRFC 10-311] analyzing module reset_blk_ramfifo
+INFO: [VRFC 10-311] analyzing module reset_blk_ramfifo_8
+INFO: [VRFC 10-311] analyzing module synchronizer_ff
+INFO: [VRFC 10-311] analyzing module synchronizer_ff_1
+INFO: [VRFC 10-311] analyzing module synchronizer_ff_10
+INFO: [VRFC 10-311] analyzing module synchronizer_ff_11
+INFO: [VRFC 10-311] analyzing module synchronizer_ff_12
+INFO: [VRFC 10-311] analyzing module synchronizer_ff_2
+INFO: [VRFC 10-311] analyzing module synchronizer_ff_3
+INFO: [VRFC 10-311] analyzing module synchronizer_ff_9
+INFO: [VRFC 10-311] analyzing module synchronizer_ff__parameterized0
+INFO: [VRFC 10-311] analyzing module synchronizer_ff__parameterized0_19
+INFO: [VRFC 10-311] analyzing module synchronizer_ff__parameterized0_20
+INFO: [VRFC 10-311] analyzing module synchronizer_ff__parameterized0_21
+INFO: [VRFC 10-311] analyzing module synchronizer_ff__parameterized0_22
+INFO: [VRFC 10-311] analyzing module synchronizer_ff__parameterized0_4
+INFO: [VRFC 10-311] analyzing module synchronizer_ff__parameterized0_5
+INFO: [VRFC 10-311] analyzing module synchronizer_ff__parameterized0_6
+INFO: [VRFC 10-311] analyzing module wr_bin_cntr
+INFO: [VRFC 10-311] analyzing module wr_bin_cntr_16
+INFO: [VRFC 10-311] analyzing module wr_handshaking_flags
+INFO: [VRFC 10-311] analyzing module wr_handshaking_flags_15
+INFO: [VRFC 10-311] analyzing module wr_logic
+INFO: [VRFC 10-311] analyzing module wr_logic__parameterized0
+INFO: [VRFC 10-311] analyzing module wr_status_flags_as
+INFO: [VRFC 10-311] analyzing module wr_status_flags_as_14
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_addr_ctl
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_bscan_switch
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_burst_wdlen_ctl
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_bus_ctl
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_bus_ctl_cnt
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_bus_ctl_flg
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_bus_ctl_flg__parameterized0
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_bus_mstr2sl_if
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_cmd_decode
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_ctl_reg
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_ctl_reg__parameterized0
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_ctl_reg__parameterized1
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_ctl_reg__parameterized2
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_icon
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_icon2xsdb
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_if
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_if_static_status
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_rdfifo
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_rdreg
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_stat
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_stat_reg
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_stat_reg__parameterized0
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_stat_reg__parameterized0_0
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_sync
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_wrfifo
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_wrreg
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_xsdbm
+INFO: [VRFC 10-311] analyzing module xsdbm_v3_0_0_xsdbm_id
+INFO: [VRFC 10-311] analyzing module design_1
+INFO: [VRFC 10-311] analyzing module design_1_FreqCounter_0_5
+INFO: [VRFC 10-311] analyzing module design_1_FreqCounter_0_5_FreqCounter_v1_0
+INFO: [VRFC 10-311] analyzing module design_1_FreqCounter_0_5_FreqCounter_v1_0_S00_AXI
+INFO: [VRFC 10-311] analyzing module design_1_RO1_0_4
+INFO: [VRFC 10-311] analyzing module design_1_RO1_0_4_RO1_v1_0
+INFO: [VRFC 10-311] analyzing module design_1_RO1_0_4_RO1_v1_0_S00_AXI
+INFO: [VRFC 10-311] analyzing module design_1_RO1_0_4_RoS1
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_axi_protocol_converter
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_ar_channel
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_aw_channel
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_b_channel
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_cmd_translator
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_cmd_translator_1
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_incr_cmd
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_incr_cmd_2
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_r_channel
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_rd_cmd_fsm
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_simple_fifo
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_simple_fifo__parameterized0
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_simple_fifo__parameterized1
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_simple_fifo__parameterized2
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_wr_cmd_fsm
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_wrap_cmd
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_protocol_converter_v2_1_21_b2s_wrap_cmd_3
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_register_slice_v2_1_21_axi_register_slice
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_register_slice_v2_1_21_axic_register_slice
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_register_slice_v2_1_21_axic_register_slice_0
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_register_slice_v2_1_21_axic_register_slice__parameterized1
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0__axi_register_slice_v2_1_21_axic_register_slice__parameterized2
+INFO: [VRFC 10-311] analyzing module design_1_processing_system7_0_0
+INFO: [VRFC 10-311] analyzing module design_1_processing_system7_0_0__processing_system7_v5_5_processing_system7
+INFO: [VRFC 10-311] analyzing module design_1_ps7_0_axi_periph_0
+INFO: [VRFC 10-311] analyzing module design_1_rst_ps7_0_50M_0
+INFO: [VRFC 10-311] analyzing module design_1_rst_ps7_0_50M_0__cdc_sync
+INFO: [VRFC 10-311] analyzing module design_1_rst_ps7_0_50M_0__cdc_sync_0
+INFO: [VRFC 10-311] analyzing module design_1_rst_ps7_0_50M_0__lpf
+INFO: [VRFC 10-311] analyzing module design_1_rst_ps7_0_50M_0__proc_sys_reset
+INFO: [VRFC 10-311] analyzing module design_1_rst_ps7_0_50M_0__sequence_psr
+INFO: [VRFC 10-311] analyzing module design_1_rst_ps7_0_50M_0__upcnt_n
+INFO: [VRFC 10-311] analyzing module design_1_vio_0_0
+INFO: [VRFC 10-311] analyzing module design_1_wrapper
+INFO: [VRFC 10-311] analyzing module design_1_xbar_0
+INFO: [VRFC 10-311] analyzing module design_1_xbar_0__axi_crossbar_v2_1_22_addr_arbiter_sasd
+INFO: [VRFC 10-311] analyzing module design_1_xbar_0__axi_crossbar_v2_1_22_axi_crossbar
+INFO: [VRFC 10-311] analyzing module design_1_xbar_0__axi_crossbar_v2_1_22_crossbar_sasd
+INFO: [VRFC 10-311] analyzing module design_1_xbar_0__axi_crossbar_v2_1_22_decerr_slave
+INFO: [VRFC 10-311] analyzing module design_1_xbar_0__axi_crossbar_v2_1_22_splitter
+INFO: [VRFC 10-311] analyzing module design_1_xbar_0__axi_crossbar_v2_1_22_splitter__parameterized0
+INFO: [VRFC 10-311] analyzing module design_1_xbar_0__axi_register_slice_v2_1_21_axic_register_slice
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_UYSKKA
+INFO: [VRFC 10-311] analyzing module design_1_vio_0_0_vio_v3_0_19_decoder
+INFO: [VRFC 10-311] analyzing module design_1_vio_0_0_vio_v3_0_19_probe_in_one
+INFO: [VRFC 10-311] analyzing module design_1_vio_0_0_vio_v3_0_19_vio
+INFO: [VRFC 10-311] analyzing module design_1_vio_0_0_xsdbs_v1_0_2_xsdbs
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_design_1_wrapper
+INFO: [VRFC 10-2458] undeclared symbol DDR_addr, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:30]
+INFO: [VRFC 10-2458] undeclared symbol DDR_ba, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:31]
+INFO: [VRFC 10-2458] undeclared symbol DDR_cas_n, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:32]
+INFO: [VRFC 10-2458] undeclared symbol DDR_ck_n, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:33]
+INFO: [VRFC 10-2458] undeclared symbol DDR_ck_p, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:34]
+INFO: [VRFC 10-2458] undeclared symbol DDR_cke, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:35]
+INFO: [VRFC 10-2458] undeclared symbol DDR_cs_n, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:36]
+INFO: [VRFC 10-2458] undeclared symbol DDR_dm, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:37]
+INFO: [VRFC 10-2458] undeclared symbol DDR_dq, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:38]
+INFO: [VRFC 10-2458] undeclared symbol DDR_dqs_n, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:39]
+INFO: [VRFC 10-2458] undeclared symbol DDR_dqs_p, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:40]
+INFO: [VRFC 10-2458] undeclared symbol DDR_odt, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:41]
+INFO: [VRFC 10-2458] undeclared symbol DDR_ras_n, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:42]
+INFO: [VRFC 10-2458] undeclared symbol DDR_reset_n, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:43]
+INFO: [VRFC 10-2458] undeclared symbol DDR_we_n, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:44]
+INFO: [VRFC 10-2458] undeclared symbol FIXED_IO_ddr_vrn, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:45]
+INFO: [VRFC 10-2458] undeclared symbol FIXED_IO_ddr_vrp, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:46]
+INFO: [VRFC 10-2458] undeclared symbol FIXED_IO_mio, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:47]
+INFO: [VRFC 10-2458] undeclared symbol FIXED_IO_ps_clk, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:48]
+INFO: [VRFC 10-2458] undeclared symbol FIXED_IO_ps_porb, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:49]
+INFO: [VRFC 10-2458] undeclared symbol FIXED_IO_ps_srstb, assumed default net type wire [C:/Users/Jarvis/Documents/Xilinx/project_3/project_2.srcs/sim_1/new/tb_design_1_wrapper.v:50]

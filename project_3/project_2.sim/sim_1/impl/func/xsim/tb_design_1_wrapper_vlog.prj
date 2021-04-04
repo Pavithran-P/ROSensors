@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../project_2.srcs/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../../project_2.srcs/sources_1/bd/design_1/ipshared/6b56/hdl" --include "C:/FPGAtool/Vivado/2020.1/data/xilinx_vip/include" \
+"tb_design_1_wrapper_func_impl.v" \
+"../../../../../project_2.srcs/sim_1/new/tb_design_1_wrapper.v" \
+
+# Do not sort compile order
+nosort
